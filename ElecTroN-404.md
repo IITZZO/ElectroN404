@@ -20,7 +20,7 @@
 ----
 
 <div align="center">
-<img src="https://cdn.discordapp.com/attachments/933423549539029063/971003832198909972/20220503_143336_0000_preview_rev_1.png" align="cenrter" height="150" width="450" />
+<img src="https://cdn.discordapp.com/attachments/933423549539029063/971003832198909972/20220503_143336_0000_preview_rev_1.png" align="cenrter" height="150" width="550" />
 </div>
 
 ----
