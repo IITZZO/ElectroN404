@@ -27,7 +27,7 @@
 
 ###### <div align="center">Stats</div><br/>
 
-<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=ElecTroN404&theme=buefy" align="left" height="100" style="width: 35%" /></div>
+<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=ElecTroN404&theme=buefy" align="left" height="300" style="width: 40%" /></div>
 
 
 <div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElecTroN404&theme=buefy" align="center" height="180" right="width: 35%" /></div>
