@@ -30,7 +30,7 @@
 <div align="left"><img src="https://github-readme-stats.vercel.app/api?username=ElecTroN404&theme=buefy" align="left" height="180" style="width: 35%" /></div>
 
 
-<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElecTroN404&theme=buefy" align="center" height="150" right="width: 35%" /></div>
+<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElecTroN404&theme=buefy" align="center" height="180" right="width: 35%" /></div>
 <br/><br/>
 
 ----
