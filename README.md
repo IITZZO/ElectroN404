@@ -10,7 +10,7 @@
 
 
 <div align="left">
-<a href="https://discord.gg/iran"><img src="https://cdn.discordapp.com/attachments/933423549539029063/971007613913415710/g.png" align="left" height="150" width="130" ></a></div>
+<a href="https://discord.gg/irgenesis"><img src="https://cdn.discordapp.com/attachments/933423549539029063/971007613913415710/g.png" align="left" height="150" width="130" ></a></div>
 
 
 <div align="right">
