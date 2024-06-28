@@ -4,7 +4,7 @@
 <img src="https://cdn.discordapp.com/attachments/933423549539029063/971011490201104384/unknown.png" align="cenrter" height="100" width="100" />
 </div>
 
-##### <div align="center"> ElecTroN404 </div>
+##### <div align="center"> IITZZO </div>
 ###### <div align="center"> For Every Negative. There IIs a Positive! </div>
 
 
@@ -27,7 +27,7 @@
 
 ###### <div align="center">Stats</div><br/>
 
-<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=ElecTroN404&theme=buefy" align="left" height="250" style="width: 40%" /></div>
+<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=IITZZO&theme=buefy" align="left" height="250" style="width: 40%" /></div>
 
 
 <div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IITZZO&theme=buefy" align="center" height="160" right="width: 40%" /></div>
